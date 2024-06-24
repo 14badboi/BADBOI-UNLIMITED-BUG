@@ -12,8 +12,9 @@ Very powerfull & dangerou WhatsApp Bug 🐛 bot.
 2.  - [FORK] (not yet)this repository.
 3.   - Click [SCAN](https://replit.com/@DGXeon/Xeon-PairCode?v=1) and pair the code through the "WhatsApp Linked Devices" option in your WhatsApp app.
 
+If you don't have an account of heroku [create an account now]
 
-
+MY REAL NAME IS ENIOLA 
 
 ## `Heroku` buildpacks
 1. buildpack
