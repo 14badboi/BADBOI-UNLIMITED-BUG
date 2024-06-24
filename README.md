@@ -9,7 +9,7 @@ Very powerfull & dangerou WhatsApp Bug 🐛 bot.
 
    1. - 🎭 `Star` 🌟 this repository.
 - If you don't have a GitHub account, [sign up](https://github.com/join) now. [video Tutorial](https://youtu.be/D9ep0hVF8-c?si=Rn0D1E5-VErXKlap)
-2.  - [FORK](https://github.com/techgod143/TECH-GOD-BUG-BOT/fork) this repository.
+2.  - [FORK] (not yet)this repository.
 3.   - Click [SCAN](https://replit.com/@DGXeon/Xeon-PairCode?v=1) and pair the code through the "WhatsApp Linked Devices" option in your WhatsApp app.
 
 
