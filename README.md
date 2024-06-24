@@ -24,7 +24,7 @@ MY REAL NAME IS ENIOLA
 -     https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 3. buildpack
 
--     
+-     https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 Add your Creds.json to Classic file
 * Create a new app at [Heroku](heroku.com)
